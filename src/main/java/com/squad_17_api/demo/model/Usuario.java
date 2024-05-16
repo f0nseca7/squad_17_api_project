@@ -1,3 +1,5 @@
+package com.squad_17_api.demo.model;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Column;
